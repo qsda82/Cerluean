@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/nav_account"
+        android:icon="@drawable/ic_build_black_24dp"
+        android:title="帳號管理" />
+    <item
+        android:id="@+id/nav_personal_data"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="個人資料" />
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="首頁" />
+    <item
+        android:id="@+id/nav_message"
+        android:icon="@drawable/ic_message_black_24dp"
+        android:title="訊息管理" />
+    <item
+        android:id="@+id/nav_match"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="配對管理" />
+
+</menu>

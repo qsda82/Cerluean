@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "203812541251",
+    "firebase_url": "https://android-5fcb6.firebaseio.com",
+    "project_id": "android-5fcb6",
+    "storage_bucket": "android-5fcb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203812541251:android:d72647b908443cb87b95f6",
+        "android_client_info": {
+          "package_name": "com.example.datingapptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203812541251-6turs8ku0f1mb2l9ngn24ljfmhudbrdr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.datingapptest",
+            "certificate_hash": "8777419b17e92849890ad18a7ce071cb9767d226"
+          }
+        },
+        {
+          "client_id": "203812541251-pjqpcrtsiq2tf2s1gus6udrrdb4q7rvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3L5qnyc_s5mb-B2jKUN34twwWOJsR_5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203812541251-pjqpcrtsiq2tf2s1gus6udrrdb4q7rvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
